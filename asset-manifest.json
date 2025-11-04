@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/you-fit.ru/static/css/main.cb288e9f.css",
-    "main.js": "/you-fit.ru/static/js/main.e9a42b7f.js",
+    "main.js": "/you-fit.ru/static/js/main.f4a50e21.js",
     "static/js/453.5565870f.chunk.js": "/you-fit.ru/static/js/453.5565870f.chunk.js",
     "index.html": "/you-fit.ru/index.html",
     "main.cb288e9f.css.map": "/you-fit.ru/static/css/main.cb288e9f.css.map",
-    "main.e9a42b7f.js.map": "/you-fit.ru/static/js/main.e9a42b7f.js.map",
+    "main.f4a50e21.js.map": "/you-fit.ru/static/js/main.f4a50e21.js.map",
     "453.5565870f.chunk.js.map": "/you-fit.ru/static/js/453.5565870f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb288e9f.css",
-    "static/js/main.e9a42b7f.js"
+    "static/js/main.f4a50e21.js"
   ]
 }
